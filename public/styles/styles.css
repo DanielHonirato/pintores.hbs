@@ -1,0 +1,16 @@
+body{
+    background: darkslategrey;
+}
+p{
+    color: black;
+    text-align: center;
+}
+h1{
+    border: black;
+    background: darkslateblue;
+    color: darkred;
+    text-align: center;
+}
+image{
+    text-align: center;
+}
