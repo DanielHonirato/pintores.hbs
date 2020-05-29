@@ -1,1 +1,1 @@
-# pintores.hbs
+# pintores
